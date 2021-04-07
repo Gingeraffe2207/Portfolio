@@ -1,2 +1,2 @@
-# SongList
-bones of a working MP4 player / playlist builder.
+# Portfolio
+All of my projects I have been working on.
